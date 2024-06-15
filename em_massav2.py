@@ -5,7 +5,7 @@ from email.mime.image import MIMEImage
 
 # Defina suas credenciais de login
 email = 'frederico.almeida@grupomulti.com.br'
-password = '*Fred0202*'
+password = 'Senha aqui'
 
 # Crie uma conexão SMTP com o servidor do Gmail
 server = smtplib.SMTP('smtp.gmail.com', 587)
